@@ -1,5 +1,5 @@
 {
-  "name": "@atom-ui/atoms",
+  "name": "@smol-ui/atoms",
   "version": "1.0.0",
   "description": "Component library",
   "main": "index.js",

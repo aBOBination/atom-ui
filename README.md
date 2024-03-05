@@ -1,2 +1,2 @@
-# atom-ui
-@atom-ui/atoms
+# smol-ui
+@smol-ui/atoms

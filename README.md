@@ -1,2 +1,2 @@
 # atom-ui
-@atom-ui
+@atom-ui/atoms
